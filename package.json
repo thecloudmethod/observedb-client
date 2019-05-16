@@ -1,0 +1,10 @@
+{
+  "name": "observedb-client",
+  "version": "0.0.1",
+  "description": "An Angular client side module for observedb-server to SELECT, UPDATE, INSERT and DELETE with standard SQL syntax and watch for changes in real-time.",
+  "main": "index.js",
+  "repository": "https://github.com/thecloudmethod/observedb-client.git",
+  "author": "Ben Morgan",
+  "license": "MIT",
+  "private": false
+}
